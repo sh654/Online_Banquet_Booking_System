@@ -22,3 +22,6 @@ Credential for User panel :
 Username: akj@gmail.com
 Password: Test@123
 Or Register a new user.
+
+Deployed into 000webhost.com
+https://aftmost-nylon.000webhostapp.com/index.php
